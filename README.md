@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aditya7005446231
+- 👋 Hi, I’m @Aditya
 - 👀 I’m interested in apple
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
