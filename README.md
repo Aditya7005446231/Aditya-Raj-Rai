@@ -38,7 +38,7 @@ A Python-based web app using NLP to summarize news articles. Built with **Flask*
 
 
 ## 📫 Let's Connect:
-- LinkedIn: [Aditya Rai](https://www.linkedin.com/in/adityarai7705/)
+- LinkedIn: [Aditya Rai](https://www.linkedin.com/in/aditya-rai-31a250289/)
 - Email: [adityarai77053@gmail.com](mailto:adityarai77053@gmail.com)
 
 ---
